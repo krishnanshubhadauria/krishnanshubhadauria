@@ -1,7 +1,7 @@
 Welcome to my **Data Analyst Portfolio**!  
 This repository showcases my end-to-end data analytics projects where I work on **data cleaning, exploratory data analysis (EDA), SQL analysis, dashboarding, and business reporting** to generate actionable insights.
 
-I focus on building projects that reflect real-world business problems and demonstrate strong fundamentals in:
+I focus on building projects that reflect real-world business problems and demonstrate strong fundamentals in:  
 ✅ Data Wrangling & Preprocessing  
 ✅ SQL Querying & Business Metrics  
 ✅ Data Visualization & Storytelling  
